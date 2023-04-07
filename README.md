@@ -5,6 +5,7 @@
 -  Discription
 -  License
 -  walkthrough video
+-  Installation
 -  Usage
 -  Reference
 
@@ -42,9 +43,13 @@ SOFTWARE.
 
 [![Watch the video]Untitled_ Apr 7, 2023 6_02 PM.webm](https://user-images.githubusercontent.com/114691852/230684252-79037296-1155-489d-a41f-95ed31ed3e7b.webm)
 
+## Installation
+
+To run this project , have to install [npm install][express.js][mongoose]
 
 ## Usage
 
+this command will use to run this page: [npm start]
 
 ## Reference
 
