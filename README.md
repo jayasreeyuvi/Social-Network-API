@@ -10,7 +10,7 @@
 
 ## Discription
 
-It's an API for a social network web application where users can Create, Update , Delete user and thought , also remove, add 
+It's an API for a social network web application where users can Create, Update , Delete user and thought , also remove, add reaction and friend.
 
 ## License
 MIT License
