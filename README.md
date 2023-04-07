@@ -4,7 +4,6 @@
 
 -  Discription
 -  License
--  Screenshot
 -  walkthrough video
 -  Usage
 -  Reference
@@ -36,9 +35,17 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Screenshot
 ## Walkthrough video
+
+[![Watch the video]Untitled_ Apr 7, 2023 6_35 PM.webm](https://user-images.githubusercontent.com/114691852/230684172-19a19ded-deae-4082-9d03-277f2f58ffee.webm)
+
+
+[![Watch the video]Untitled_ Apr 7, 2023 6_02 PM.webm](https://user-images.githubusercontent.com/114691852/230684252-79037296-1155-489d-a41f-95ed31ed3e7b.webm)
+
+
 ## Usage
+
+
 ## Reference
 
 -  NOSQL Activities
